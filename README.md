@@ -3,4 +3,4 @@ A simple calculator
 
 Here's a live demo:
 
-https://j5aurav.github.io/calc/calc.html
+https://cryptimus.github.io/calc/calc.html
